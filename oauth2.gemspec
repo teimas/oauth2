@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'httpauth', '~> 0.1'
   spec.add_dependency 'multi_json', '~> 1.0'
   spec.add_dependency 'multi_xml', '~> 0.5'
-  spec.add_dependency 'rack', '~> 1.2'
+  spec.add_dependency 'rack', '~> 1.1'
   spec.add_dependency 'jwt', '~> 0.1.4'
   spec.authors = ["Michael Bleigh", "Erik Michaels-Ober"]
   spec.description = %q{A Ruby wrapper for the OAuth 2.0 protocol built with a similar style to the original OAuth spec.}
